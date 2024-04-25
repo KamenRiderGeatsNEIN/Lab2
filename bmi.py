@@ -10,5 +10,4 @@ def calculate_bmi(height, weight):
     elif 25.0 < bmi :
         print ("You are Overweight.")
 
-calculate_bmi(weight=57, height=1.73) 
 
